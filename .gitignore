@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+work/
+private/
+*.pdf
+*.pptx
+*.docx
+*.zip
+references/reference-patterns.md

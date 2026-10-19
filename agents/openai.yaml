@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dong Skill（懂 Skill）V1"
+  short_description: "审核报告并提供具体修改建议和完整修改版，生成让听众真正听懂的演讲稿"
+  default_prompt: "请使用 $dong-skill 审核我的报告，给出具体修改建议与完整修改版；或按我的要求，根据材料生成演讲稿。"
